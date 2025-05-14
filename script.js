@@ -64,4 +64,4 @@ function drawGame() {
   }
 }
 
-const gameLoop = setInterval(drawGame, 100);
+const gameLoop = setInterval(drawGame, 100); 
